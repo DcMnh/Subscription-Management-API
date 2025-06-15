@@ -1,7 +1,6 @@
 # Subscription Management API
 
 Build and deploy a **production-ready Subscription Management System** that handles real users, real money, and real business logic.  
-This project follows the step-by-step **Backend Crash-Course** from *JavaScript Mastery* on YouTube. :contentReference[oaicite:0]{index=0}
 
 ---
 
